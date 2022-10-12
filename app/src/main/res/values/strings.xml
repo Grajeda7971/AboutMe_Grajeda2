@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">"Alejandro Grajeda "</string>
+    <string name="name2">Alejandro Grajeda</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola yo soy Alejandro
+        \n\n Mido un metro setenta y cinco, tengo un sillón azul
+        \n\n En mi cuarto hay un baúl y me gusta el almendrado
+        \n\n Me despierto alunado, mi madre es medio terca
+        \n\n Aunque nunca estuve preso, anduve cerca
+        \n\n Soy de aries, pelo castaño, algo tacaño
+        \n\n y no colecciono nada
+        \n\n Guardo la ropa ordenada, me aburro en noche buena
+        \n\n Si estornudo no hago ruido y no hablo con la boca llena </string>
+</resources>
